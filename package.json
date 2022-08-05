@@ -1,6 +1,22 @@
 {
     "name": "komplex",
     "version": "1.0.0",
+    "keywords": [
+        "mathematics",
+        "math",
+        "complex",
+        "complex numbers"
+    ],
+    "homepage": "https://github.com/Keve1227/komplex#readme",
+    "bugs": {
+        "url": "https://github.com/Keve1227/komplex/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Keve1227/komplex.git"
+    },
+    "license": "MIT",
+    "author": "Keve1227 <killenlillen02@gmail.com>",
     "type": "module",
     "module": "./dist/komplex.js",
     "files": [
