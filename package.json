@@ -1,0 +1,19 @@
+{
+    "name": "komplex",
+    "version": "1.0.0",
+    "type": "module",
+    "module": "./dist/komplex.js",
+    "files": [
+        "dist/"
+    ],
+    "scripts": {
+        "prebuild": "npm run clean",
+        "build": "tsc",
+        "clean": "rimraf dist/",
+        "prepack": "npm run build"
+    },
+    "devDependencies": {
+        "rimraf": "^3.0.2",
+        "typescript": "^4.7.4"
+    }
+}
