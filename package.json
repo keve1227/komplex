@@ -1,6 +1,6 @@
 {
     "name": "komplex",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "mathematics",
         "math",
@@ -18,7 +18,7 @@
     "license": "MIT",
     "author": "Keve1227 <killenlillen02@gmail.com>",
     "type": "module",
-    "module": "./dist/komplex.js",
+    "main": "./dist/komplex.js",
     "files": [
         "dist/"
     ],
