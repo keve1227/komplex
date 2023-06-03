@@ -1,3 +1,3 @@
 # komplex
 
-A small, pure JS library for working with complex numbers.
+A small, pure JS/TS library for working with complex numbers.
